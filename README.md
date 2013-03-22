@@ -1,6 +1,6 @@
 # Mercurial Puppet module for Boxen
 
-A module to install the distributed version control system -- Mercurial.
+A module to install the distributed version control system -- [Mercurial](http://mercurial.selenic.com/).
 
 ## Usage
 
